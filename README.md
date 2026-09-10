@@ -2,7 +2,7 @@
 
 ### Software Engineer | Frontend Developer
 
-I'm a Software Engineer with 3+ years of professional experience building responsive and scalable web and mobile applications using **React.js, Next.js, and React Native**.
+I'm a Software Engineer with 3.5+ years of professional experience building responsive and scalable web and mobile applications using **React.js, Next.js, and React Native**.
 
 I enjoy building clean user interfaces, reusable components, and high-performance applications.
 
@@ -10,7 +10,7 @@ I enjoy building clean user interfaces, reusable components, and high-performanc
 
 ## 🧑‍💻 About Me
 
-* 💻 Software Engineer with 3+ years of professional experience
+* 💻 Software Engineer with 3.5+ years of professional experience
 * ⚛️ Specialized in React.js, Next.js, and React Native
 * 📱 Experienced in cross-platform mobile application development
 * 🎨 Passionate about modern UI/UX and design systems
