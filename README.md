@@ -111,21 +111,24 @@ Implemented scalable and modular features using **Next.js and TypeScript**, alon
 
 ---
 
-### 📚 BD Kids Book
 
-**Interactive Learning App**
+### 📚 Adorsholipi - Bengali Learning Game
 
 **Tech:** `React Native`
 
-An interactive learning application for children featuring:
+[![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=go.goappsbd.hatekhori)
 
-* 🔊 Tap-to-sound interactions
-* 🎨 Child-friendly interface
-* 📱 Intuitive navigation
-* 🔤 Interactive letters and images
-* 🎵 Audio feedback for learning
+An interactive Bengali learning application for children, featuring colorful visuals, audio pronunciation, educational games, and level-based activities.
 
-🔗 [View Repository](https://github.com/JoySutradhar1/BDKidsBook)
+**Key Features & Contributions:**
+
+- 🔤 Developed interactive Bengali alphabet, word, and number learning modules.
+- 🔊 Integrated audio pronunciation and visual learning content.
+- 🔢 Implemented basic mathematics, including counting, addition, and subtraction.
+- 🌿 Added educational content covering Bengali months, seasons, fruits, vegetables, and birds.
+- 🎮 Built interactive games, quizzes, and level-based activities.
+- 🎨 Designed a colorful, child-friendly UI with reusable React Native components.
+- 🚀 Optimized the Android experience and published the app on Google Play Store.
 
 ---
 
