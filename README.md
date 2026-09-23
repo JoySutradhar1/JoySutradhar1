@@ -132,6 +132,29 @@ An interactive Bengali learning application for children, featuring colorful vis
 
 ---
 
+## Srotoswini AI
+
+**Srotoswini AI** is a modern, browser-local AI workspace for intelligent chat, document analysis, workflow automation, and personal productivity.
+
+### Features
+
+- AI chat powered by OpenRouter free models
+- Persistent local conversations using IndexedDB
+- PDF and TXT document upload with client-side text extraction
+- Consent-based document analysis and requirement extraction
+- Browser-local workflow automation with approval steps
+- Real-time local analytics for AI usage and workflow activity
+- Dark/light theme, responsive dashboard, and accessible UI
+- Secure server-side API routes for OpenRouter requests
+- No cloud database, user accounts, or exposed API keys
+
+### Tech Stack
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Dexie.js` · `OpenRouter` · `Zod` · `PDF.js` · `Recharts` · `dnd-kit` · `Vercel`
+
+> Built as a privacy-focused single-user AI workspace where data stays in the browser unless the user explicitly sends content for AI processing.
+
+---
 
 ## 🤝 Let's Connect
 
